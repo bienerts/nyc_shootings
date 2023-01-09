@@ -7,8 +7,8 @@ The project includes:
   * In file [NYC_Shooting_Streamlit.py](NYC_Shooting_Streamlit.py)
   * Uses data from NYC_full_with_data.csv which contains
     * [NYPD Shooting Incident Data](https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8) 
-    * Zip Codes
-    * Weather 
+    * Enriched by Zip Codes 
+    * Enriched by Weather data
 * Prediction models
   * Data preparation for prediction models [02_ML_dataprep_prediction_model.py](02_ML_dataprep_prediction_model.py)
   * Prediction models:
