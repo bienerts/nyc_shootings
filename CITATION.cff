@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: New York City Shooting Incidents
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Stefanie Claudia
+    family-names: Bienert
+    email: stefanie.bienert@gmail.com
+    orcid: 'https://orcid.org/0000-0002-4160-1959'
+  - given-names: Christopher
+    family-names: Patzanovsky
+    email: christopher.patzanovsky@student.uhasselt.be
+version: 0.1.0
+date-released: 2023-01-09
